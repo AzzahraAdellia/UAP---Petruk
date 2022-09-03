@@ -1,0 +1,26 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
+ */
+
+package com.mycompany.tugas1praktikum;
+import java.until.Scanner;
+import java.swing.JOptionPane;
+import javax.swing.JOptionPane;
+/**
+ *
+ * @author acer
+ */
+public class Tugas1Praktikum {
+
+    public static void main(String[] args) throws Exception {
+        int num1 = 55555;
+        int num2 = 55555;
+        long fromInt1 = (long)num1;
+        long fromInt2 = (long)num2;
+        long result = fromInt1*fromInt2;
+        
+        System.out.println(result);
+
+    }
+}
